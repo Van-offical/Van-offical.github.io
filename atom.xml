@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-08T09:29:49.298Z</updated>
+  <updated>2022-10-22T06:52:49.121Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,11 +21,20 @@
     <link href="http://example.com/posts/edc6676d.html"/>
     <id>http://example.com/posts/edc6676d.html</id>
     <published>2022-10-08T09:29:29.000Z</published>
-    <updated>2022-10-08T09:29:49.298Z</updated>
+    <updated>2022-10-22T06:52:49.121Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到我的博客"><a href="#欢迎来到我的博客" class="headerlink" title="欢迎来到我的博客!!!"></a>欢迎来到我的博客!!!</h1><p><strong>所以我该写些什么？？？</strong><br>要不先在这里插一张图片吧！！！</p><hr><p><img src="https://cdn.staticaly.com/gh/Van-offical/ImgStore@main/pics04.jpg"></p><hr><p><strong>如你所见 我是舰长！</strong><del><em>骄傲</em></del></p><h2 id="总而言之-谢谢你点进来！！！"><a href="#总而言之-谢谢你点进来！！！" class="headerlink" title="总而言之 谢谢你点进来！！！"></a>总而言之 谢谢你点进来！！！</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;欢迎来到我的博客&quot;&gt;&lt;a href=&quot;#欢迎来到我的博客&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到我的博客!!!&quot;&gt;&lt;/a&gt;欢迎来到我的博客!!!&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;所以我该写些什么？？？&lt;/strong&gt;&lt;br&gt;要不先在这里插一</summary>
+      
     
     
     
     
+    <category term="首页" scheme="http://example.com/tags/%E9%A6%96%E9%A1%B5/"/>
     
   </entry>
   
